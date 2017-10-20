@@ -8,10 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-    //IBOutlets
-    @IBOutlet weak var swoosh: UIImageView!
-    @IBOutlet weak var bgImage: UIImageView!
+class WelcomeScreenVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
